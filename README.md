@@ -21,8 +21,7 @@ This project involved designing and developing a **professional portfolio websit
 - **HTML5** & **CSS3**
 - **Bootstrap** for responsive design
 - **JavaScript** & **jQuery** for interactivity
-- **PHP** (if backend functionality was required)
-- **Figma** / **Adobe XD** (for UI/UX design mockups)
+ 
 
 ## 🎯 Project Outcome
 - Delivered a **fully functional** and **visually stunning** portfolio website.
@@ -30,8 +29,7 @@ This project involved designing and developing a **professional portfolio websit
 - Provided **post-delivery support** for minor adjustments.
 - Client was **100% satisfied** with the outcome and gave **positive feedback**! ⭐⭐⭐⭐⭐
 
-## 📷 Screenshots
-*Add screenshots here to showcase the portfolio*
+ 
 
 ## 🌍 Live Link
 🔗 [View Portfolio Live](https://aisha-riaz.vercel.app/)
